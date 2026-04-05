@@ -1,1 +1,2 @@
 This is random text 2 from branch1
+Pull remote repository branch to local machine
