@@ -1,3 +1,3 @@
 # gitpractice
-practice github
-first edit
+2026/04/05
+First practice for junior devop engineer
